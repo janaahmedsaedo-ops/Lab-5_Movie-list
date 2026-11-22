@@ -1,0 +1,12 @@
+body { background: #f3f4f6; font-family: Arial, sans-serif; margin: 0; }
+.app { max-width: 600px; margin: 30px auto; padding: 0 16px; }
+h1 { text-align: center; }
+.add-form { display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px; }
+input, select { padding: 8px; border: 1px solid #ccc; border-radius: 6px; }
+button { padding: 8px 14px; border: none; border-radius: 6px; background: #3b82f6; color: white; cursor: pointer; }
+.movie-card { background: white; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin-bottom: 10px; }
+.movie-title { font-weight: bold; font-size: 18px; }
+.stars { font-size: 20px; margin: 6px 0; }
+.comment { color: #555; font-style: italic; margin-bottom: 8px; }
+.remove-btn { background: #e11d48; padding: 4px 10px; }
+.empty { text-align: center; color: #666; }
